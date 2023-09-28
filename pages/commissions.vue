@@ -1,0 +1,3 @@
+<template>
+  <commissions></commissions>
+</template>
